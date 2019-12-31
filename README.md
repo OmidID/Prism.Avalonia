@@ -1,4 +1,7 @@
 # Prism.Avalonia
+
+# Moved to https://github.com/AvaloniaCommunity/Prism.Avalonia
+
 Prism (https://github.com/PrismLibrary/Prism) framework support for Avalonia UI.
 
 This library actually copies functionality of Prism for WPF implementation, which can be found here:
